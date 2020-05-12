@@ -1,4 +1,4 @@
-package 第7章_虚拟机加载机制.Demo7_1;
+package 第7章_虚拟机加载机制;
 
 public class SubClass extends SuperClass {
     static {

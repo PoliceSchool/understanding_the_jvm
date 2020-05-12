@@ -1,5 +1,7 @@
 package 第7章_虚拟机加载机制.Demo7_1;
 
+import 第7章_虚拟机加载机制.SubClass;
+
 public class NotInitialization {
     public static void main(String[] args) {
         /**
